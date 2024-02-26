@@ -9,5 +9,6 @@ public class Generator {
 		for(int i=0;i<6;i++) {
 			System.out.println("Build generation successfull");
 		}
+		System.out.println("It's working fine");
 	}
 }
